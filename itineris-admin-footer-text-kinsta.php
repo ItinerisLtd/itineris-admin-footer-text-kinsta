@@ -4,7 +4,7 @@ declare(strict_types=1);
 /**
  * Plugin Name:     Itineris Admin Footer Text (Kinsta)
  * Plugin URI:      https://github.com/itinerisltd/itineris-admin-footer-text-kinsta
- * Description:     Itineris Admin Footer Text (Kinsta)
+ * Description:     Display admin footer text for Itineris projects on Kinsta
  * Version:         0.2.0
  * Author:          Itineris Limited
  * Author URI:      https://www.itineris.co.uk/
