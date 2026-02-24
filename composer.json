@@ -1,7 +1,7 @@
 {
     "name": "itinerisltd/itineris-admin-footer-text-kinsta",
     "type": "wordpress-muplugin",
-    "description": "Sort menu order.",
+    "description": "Display admin footer text for Itineris projects on Kinsta",
     "keywords": [
         "wordpress",
         "wp"
